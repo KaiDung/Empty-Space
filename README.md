@@ -24,8 +24,10 @@
 ![](https://i.imgur.com/2qdiHVh.jpg)
 
 - 原始畫面
+
 ![](https://i.imgur.com/uA08lIc.png)
 
 - 找到藍色區塊
+
 ![](https://i.imgur.com/U9XT5pK.png)
 
