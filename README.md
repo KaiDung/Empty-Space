@@ -10,24 +10,22 @@
 
 ![](https://i.imgur.com/BWl9aw2.png)
 ![](https://i.imgur.com/FneDLgD.png)
-![](https://i.imgur.com/o5UeOhL.jpg)
+![](https://i.imgur.com/qjcle48.png)
+
 - 玩家血量歸零即GAME OVER 可選擇離開或是重新遊玩。
-![](https://i.imgur.com/pjpCP3R.jpg)
-
-
+![](https://i.imgur.com/u1QIC2X.jpg)
 
 ---
 ## 操控原理:利用webacm捕捉特定顏色的物體
 
 - 使用Opencv內的HSV轉換，把藍色面積取出來，再計算中心點座標，達到玩家可以使用藍色物體操控戰鬥機的效果。
+![](https://i.imgur.com/0n6O4gU.png)
 
-![](https://i.imgur.com/2qdiHVh.jpg)
 
 - 原始畫面
-
-![](https://i.imgur.com/uA08lIc.png)
+![](https://i.imgur.com/8XbBTu5.png)
 
 - 找到藍色區塊
+![](https://i.imgur.com/YI8zuRC.png)
 
-![](https://i.imgur.com/U9XT5pK.png)
 
