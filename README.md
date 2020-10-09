@@ -10,7 +10,7 @@
 
 ![](https://i.imgur.com/BWl9aw2.png)
 ![](https://i.imgur.com/FneDLgD.png)
-
+![](https://i.imgur.com/o5UeOhL.jpg)
 - 玩家血量歸零即GAME OVER 可選擇離開或是重新遊玩。
 ![](https://i.imgur.com/pjpCP3R.jpg)
 
