@@ -21,7 +21,7 @@
 
 - 使用Opencv內的HSV轉換，把藍色面積取出來，再計算中心點座標，達到玩家可以使用藍色物體操控戰鬥機的效果。
 
-![](https://i.imgur.com/0n6O4gU.png)
+![](https://i.imgur.com/MBTBCQk.png)
 
 
 - 原始畫面
